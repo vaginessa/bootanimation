@@ -2,5 +2,5 @@
 references/*
 
 # Remove the large collection of images that are taking up loads of space
-*/part0/*
-*/part1/*
+**/part0/**
+**/part1/**
